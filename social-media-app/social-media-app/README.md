@@ -1,15 +1,8 @@
-# Tasveerey
+
 
 **Website where people can post pictures with captions.**
 
-This portal is built by our team during Webathon in General Championship 2022, IIT Bhubaneswar.
 
-### Team
-
-- Sai Krishna Jupally 
-- Shrirang Deshmukh
-- Yogesh Kumar Kansal
-- Sathvik Chilaka
 
 ### Tech Stack Used
 
